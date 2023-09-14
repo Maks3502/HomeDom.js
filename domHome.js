@@ -17,7 +17,7 @@
 // const imgRef = document.querySelector("img");
 // console.log(imgRef)
 
-// imgRef.src = "img/photo_2021-11-09_01-49-46.jpg".jpg";
+// imgRef.src = "photo/photo_2021-11-09_01-49-46.jpg".jpg";
 // imgRef.alt = "mountains";
 
 
@@ -35,3 +35,9 @@
 
 // console.log(imgRef)
 
+// завдання 4 
+
+// const list = document.querySelector("li");
+// console.log(list);
+
+// list.firstChild.textContent = "Доброго дня";
